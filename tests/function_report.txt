@@ -1,0 +1,3 @@
+Empty DataFrame
+Columns: [Date_operation, amount]
+Index: []
