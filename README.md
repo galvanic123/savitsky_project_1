@@ -195,3 +195,5 @@ poetry install
 
 Тестирование проекта
 Проект покрыт тестами на 93%. Результат был зафиксирован с помощью Code coverage.
+
+### Ссылка на репозиторий https://github.com/galvanic123/savitsky_project_1/pull/1
